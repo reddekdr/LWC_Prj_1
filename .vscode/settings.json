@@ -2,6 +2,11 @@
   "search.exclude": {
     "**/node_modules": true,
     "**/bower_components": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "**/.sfdx": true
   }
+  "workbench.colorCustomizations" : {
+    "terminal.foreground" : "#d1d3d2",
+    "terminal.background" : "#dd0f0fb9"
+}
 }
